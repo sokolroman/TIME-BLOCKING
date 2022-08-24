@@ -32,4 +32,4 @@ function write() {
     }
   }
 }
-
+write();
