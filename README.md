@@ -17,7 +17,7 @@
 
 ## USER STORY
 
-AS AN student with a busy schedule
+AS A student with a busy schedule
 
 <p>I WANT to manage my day into blocks of time</p>
 <p>SO THAT I can manage my time effectively</p>
